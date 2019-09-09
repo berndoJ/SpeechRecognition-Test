@@ -1,0 +1,15 @@
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\bin\Debug\SpeechRecognition-Test.exe.config
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\bin\Debug\SpeechRecognition-Test.exe
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\bin\Debug\SpeechRecognition-Test.pdb
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.csprojAssemblyReference.cache
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\MainWindow.g.cs
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\App.g.cs
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test_MarkupCompile.cache
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test_MarkupCompile.lref
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\MainWindow.baml
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.g.resources
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition_Test.Properties.Resources.resources
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.csproj.GenerateResource.cache
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.exe
+C:\Users\Johannes\Documents\GitHub\SpeechRecognition-Test\SpeechRecognition-Test\obj\Debug\SpeechRecognition-Test.pdb
